@@ -1,1 +1,1 @@
-My first read me
+This is Static library tasks
